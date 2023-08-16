@@ -1,2 +1,2 @@
 # fullstackopen
-repositorio del curso full stack open
+Repositorio del curso full stack open
